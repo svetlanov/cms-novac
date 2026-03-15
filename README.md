@@ -19,9 +19,11 @@
 1. Скачан и установлен XAMPP
 2. Запущены модули **Apache** и **MySQL** через панель управления XAMPP
 
-
+![скриншот](https://github.com/user-attachments/assets/b79f8b4f-b34e-44bc-b327-9729d35a3f4b)
 
 3. Проверена работа сервера — открыта страница `http://localhost` ✓
+
+![скриншот](https://github.com/user-attachments/assets/6ab48758-508c-4e12-bf24-5a03ebc8077e)
 
 4. В **phpMyAdmin** (`http://localhost/phpmyadmin`) создана новая база данных `wp_lab2`
 ---
